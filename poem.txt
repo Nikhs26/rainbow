@@ -3,6 +3,7 @@ red
 green
 yellow
 blue
+orange
 pink
 white
 black
